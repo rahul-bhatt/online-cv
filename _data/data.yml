@@ -128,6 +128,17 @@ experiences:
           - EhCache
           - Sybase/ADL (Cassandra)
           - BMS (Messaging framework)
+
+    - role: Associate Tech L2| Software Engineer - Global Markets
+      time: Sept 2009 - Aug 2011
+      company: Sapient, Gurugram, India
+      details:  |
+        Worked with External Data Development team [Citadel LLC, a Hedge Fund headquartered in Chicago, USA]. The team was responsible for developing software used to handle millions of lines of trade data that is sent by Prime Brokers everyday for Reconciliation and Control.
+        
+        Tech Stack:
+          - Backend, C++, Perl
+          - SVN
+
           
 projects:
     title: Projects
@@ -181,23 +192,41 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Distributed systems & backend infrastructure
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Data structures and algorithms
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Object Oriented Design
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Microservices
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Agile Methodologies
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Software product development
+        level: 90%
+
+      - name: Capital markets, Trading and Investments
+        level: 90%
+        
+      - name: Java
+        level: 90%
+        
+      - name: Perl
+        level: 90%
+        
+      - name: C++
+        level: 50%
+        
+      - name: RESTful WebServices
+        level: 90%
+        
+      - name: Design Patterns
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
