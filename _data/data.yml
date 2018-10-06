@@ -42,7 +42,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+	summary: |
       I love computer programming and to build great software, products and team. This is what I enjoy.
       Solid experience in distributed, concurrent, scalable, high throughput server side development in Java (and earlier C++), 
       Messaging frameworks [Apache Kafka et al.], RESTFul web services, Service Oriented Architecture, Microservices, 
