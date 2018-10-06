@@ -7,52 +7,65 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rahul Bhatt
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: rbhatt.27@gmail.com
+    phone: +91 9990-987-384
+    website: rahul-bhatt.github.io/PersonalWebSite/
+    linkedin: rahulbhatt27
+    github: rahul-bhatt
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@lifenpassion'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
         
     interests:
-      - item: Climbing
+      - item: Programming
         link:
 
-      - item: Snowboarding
+      - item: Stock market & Investments
         link:
 
-      - item: Cooking
+      - item: Nature walk
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I love computer programming and to build great software, products and team. This is what I enjoy.
+      Solid experience in distributed, concurrent, scalable, high throughput server side development in Java (and earlier C++), 
+      Messaging frameworks [Apache Kafka et al.], RESTFul web services, Service Oriented Architecture, Microservices, 
+      Test Driven Development, SQL and NoSQL database design, application frameworks [Spring], caching frameworks [EhCache], 
+      ORM frameworks [Hibernate] and Perl/Python based utility scripts.
+	  
+	  Expert level knowledge in building client-server, distributed application architecture and microservices using language agnostic 
+	  messaging framework and RESTful web services API's. Love to design and architect large scale software systems. Believe in the design 
+	  which is simple and code which is understandable (by humans, not just machines).
+	  
+	  Extensive experience of working in Global Capital markets and financial services industry with Global financial giants across front office 
+	  to back office functions. Solid understanding of complete trade life cycle, different market participants and different exchange and 
+	  OTC traded products. Also, worked with start-ups in building and launching new products to the market.
+	  
+	  Learning new programming languages and technology's is one of my passion and something I do in my free time. 
+	  Acquiring a new skill every weekend keeps me going. Another thing I am passionate about is value investing and 
+	  following global economy, capital markets and stock prices. An avid reader of non fiction books (50 books an year). 
+	  
+	  Personally, I am half right brain (intuitive) and half left brain (analytical) kind of a person. 
+	  A person with diverse range of interests from technology to finance, economy, politics, spirituality, meditation, ancient history, 
+	  philosophy, mythology and the list is endless.
+	  
+	  Professionally, I would like to have a good Global exposure working with different people from different cultures.
 
 education:
     - degree: MSc in Computer Science
