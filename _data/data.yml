@@ -129,7 +129,7 @@ experiences:
           - Sybase/ADL (Cassandra)
           - BMS (Messaging framework)
 
-    - role: Associate Tech L2| Software Engineer - Global Markets
+    - role: Associate Tech L2 | Software Engineer - Global Markets
       time: Sept 2009 - Aug 2011
       company: Sapient, Gurugram, India
       details:  |
@@ -179,6 +179,3 @@ skills:
         
       - name: Design Patterns
         level: 80%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
