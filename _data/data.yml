@@ -72,7 +72,8 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Associate | Software Engineer - eTrading
+    - role: Associate | 
+            Software Engineer - eTrading
       time: Oct 2016 - Present
       company: BlackRock, Gurugram, India
       details:  |
@@ -116,7 +117,8 @@ experiences:
           - Apache Tomcat, AWS
           - GitHub
 
-    - role: Associate | Software Engineer - Portfolio Analytics Group (PAG)
+    - role: Associate | 
+            Software Engineer - Portfolio Analytics Group (PAG)
       time: Sept 2011 - July 2015
       company: BlackRock, Gurugram, India
       details:  |
@@ -129,7 +131,8 @@ experiences:
           - Sybase/ADL (Cassandra)
           - BMS (Messaging framework)
 
-    - role: Associate Tech L2 | Software Engineer - Global Markets
+    - role: Associate Tech L2 | 
+            Software Engineer - Global Markets
       time: Sept 2009 - Aug 2011
       company: Sapient, Gurugram, India
       details:  |
